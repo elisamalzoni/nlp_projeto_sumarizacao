@@ -2,6 +2,7 @@
 ## Bruna Kimura e Elisa Malzoni
 ### Projeto 3 - NLP 2020/1 Eng. Computação Insper - Prof. Fábio Ayres
 
+---------------------------------------------------------------------------------
 ## Descrição do Projeto
   Nesse projeto foram realizadas a sumarização de texto e a extração de palavras-chave.
   
